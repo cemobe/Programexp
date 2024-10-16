@@ -1,20 +1,27 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #ffffff;
+    background-color: #55766b;
 }
 h1 {
     color: #000000;
 }
 p1 {
-    color: #199b44
+    color: #000000
 }
 p2 {
     color: rgb(14, 74, 54)
 }
 form1 {
-    color: #199b44;
+    color: #000000;
 }
 .centrar-texto {
     text-align: center;
 }
 
+
+footer {
+    background-color: rgb(110, 237, 194);
+}
+header {
+    background-color: rgb(110, 237, 194);
+}
